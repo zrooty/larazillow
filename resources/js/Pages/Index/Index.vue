@@ -2,7 +2,7 @@
     <div>Index</div>
     <Link href="/hello">Show Page</Link>
     <div>
-        The message is {{ message }}
+        The message from zaky is {{ message }}
     </div>
 </template>
 
